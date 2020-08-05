@@ -2,6 +2,6 @@
 
 **试试水**
 
-```html
-<font color="green"> Some green text </font> 
+```js
+  <font color="green"> Some green text </font> 
 ```
